@@ -3,4 +3,3 @@
 
 
   # its just sample portfolio 
-here i show my target or skill
